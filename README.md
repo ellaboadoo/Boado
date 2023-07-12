@@ -1,4 +1,4 @@
-##Create Token
+#Create Token
 This Solidity program is a "Create a Token" program that demonstrates the basic syntax and functionality of the Solidity programming language.
 
 ##Description
